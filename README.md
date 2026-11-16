@@ -3,13 +3,10 @@
 <h1 align="center">YAME</h1>
 
 <p align="center"><b>Y</b>et <b>A</b>nother <b>M</b>P3 <b>E</b>ditor<br>
-<i>Make your MP3s look right in the car.</i></p>
+<I>Yet Another MP3 Editor</i></p>
 
-<p align="center">A small, native macOS app for editing song titles, artists, albums and cover art,<br>built with SwiftUI and Liquid Glass.</p>
+<p align="center">A macOS app for editing song titles, artists, albums and cover art.</p>
 
----
-
-Car stereos are picky. Unless your files are tagged *just so*, they show "Unknown Artist", skip your cover art, or play songs in the wrong order. YAME fixes all of that in one window, and never re-encodes a single byte of audio.
 
 > 🤖 **Written entirely by AI.** Every line of YAME (the code, tests, icon, build scripts and this README) was written by **Claude Opus 5.5** (medium effort), Anthropic's AI model, in a single conversation. A human described what they wanted, tested the app on a real USB drive and car, and reported back. See [About this project](#about-this-project).
 
