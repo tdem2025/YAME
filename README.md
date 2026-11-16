@@ -119,16 +119,6 @@ You can also open `Package.swift` in Xcode and run the **YAME** scheme. Run the 
 
 The tag engine (`YAMECore`) is plain Swift with no dependencies. Its unit tests also run on Linux, and it has been checked against `ffmpeg`/`ffprobe`: tags read back correctly and the decoded audio is bit-identical after saving.
 
-## Tips for car stereos
-
-Tested with a 2019 Mercedes-Benz GLA 250. They apply to most head units.
-
-1. Keep each playlist in its own folder, and use the folder name as the album (YAME has a one-click button for this).
-2. Use **Number & Rename** after you finish ordering the songs.
-3. Keep covers at 500 × 500 JPEG. Larger or progressive JPEGs often don't show.
-4. Run **Clean Up** before ejecting, then eject from YAME or Finder before unplugging.
-5. The car may take a minute to re-scan a drive after changes.
-
 ## Project layout
 
 ```
