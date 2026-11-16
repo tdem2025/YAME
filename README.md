@@ -131,19 +131,7 @@ scripts/build-app.sh    Builds and signs YAME.app
 ```
 
 ## About this project
-
-YAME was written from scratch by **Claude Opus 5.5** (Anthropic), running at medium reasoning effort. It grew out of a chat about fixing album names and cover art for a car's USB playlist. After tagging 50 songs by hand, the human asked for an app that does the same job, and Claude wrote all of it:
-
-- the ID3 engine
-- the SwiftUI interface
-- the tests
-- the app icon
-- the build and release scripts
-- this README
-
-The human's part was the idea, the feature requests, design feedback, and testing builds on their Mac. Bugs found that way went back to Claude to fix.
-
-AI-written code can contain mistakes. YAME never touches the audio in your files, but **keep a backup of your music** before editing a large collection. Issues and pull requests are welcome.
+YAME was written from scratch by **Claude Opus 5.5**, running at medium reasoning effort. AI-written code can contain mistakes. YAME never touches the audio in your files, but **keep a backup of your music** before editing a large collection. Issues and pull requests are welcome.
 
 ## License
 
