@@ -3,8 +3,6 @@
 <h1 align="center">YAME</h1>
 
 <p align="center"><b>Y</b>et <b>A</b>nother <b>M</b>P3 <b>E</b>ditor<br>
-<I>Yet Another MP3 Editor</i></p>
-
 <p align="center">A macOS app for editing song titles, artists, albums and cover art.</p>
 
 
